@@ -1,0 +1,11 @@
+{
+  "name": "jun",
+  "version": "1.0.0",
+  "description": "the helper of my",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/zjliu",
+  "license": "ISC"
+}
